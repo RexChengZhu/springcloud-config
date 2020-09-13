@@ -3,7 +3,7 @@ server:
 
 spring:
   application:
-    name: Provider-01
+    name: Provider-01-3333
 
 eureka:
   client:
